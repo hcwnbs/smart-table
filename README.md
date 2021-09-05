@@ -1,2 +1,2 @@
-# smartT
+# smart-table
 smart table function
